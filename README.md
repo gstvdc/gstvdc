@@ -130,7 +130,7 @@ Me chamo Gustavo da Cunha Constante, tenho 21 anos e sou natural de Santa Catari
       align="left" 
       alt="GitHub Stats" 
       height="201" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstvdc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstvdc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
