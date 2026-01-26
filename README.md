@@ -2,11 +2,11 @@ Gustavo Constante
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo da Cunha Constante, tenho 22 anos e sou natural de Santa Catarina. Estou no 5° semestre cursando Ciência da Computação na universidade UNESC. Atuei 4 anos como Designer Gráfico, meu objetivo é evoluir na área de desenvolvimento e adquirir experiências. Estou sempre buscando novos projetos e conexões que me aproximem desse caminho.
+My name is Gustavo da Cunha Constante, I am 22 years old and I am from Santa Catarina. I am in my 5th semester studying Computer Science at UNESC university. I worked for 4 years as a Graphic Designer and currently as a FullStack developer. My goal is to evolve in the development field and gain experience. I am always looking for new projects and connections that bring me closer to this path.
 
 ---
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img 
     align="left" 
