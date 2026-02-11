@@ -25,4 +25,10 @@ I’m always open to new challenges, collaborations and opportunities that help 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,postgres,mysql,java,python,c,git" height="60" />
 </div>
 
---
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg" alt="Snake animation" />
+</div>
