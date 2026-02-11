@@ -27,10 +27,8 @@ I’m always open to new challenges, collaborations and opportunities that help 
 
 ---
 
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gstvdc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=gstvdc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gstvdc/gstvdc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gstvdc/gstvdc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gstvdc/gstvdc/output/pacman-contribution-graph.svg">
+</picture>
