@@ -3,7 +3,7 @@
 ###
 
 <h3 align="center">Gustavo Constante</h3>
-<p align="center"><strong>Desenvolvedor FullStack</strong></p>
+<p align="center"><strong>FullStack Developer</strong></p>
 
 ###
 
@@ -27,6 +27,11 @@ I’m always open to new challenges, collaborations and opportunities that help 
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg" />
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg" alt="Snake animation" />
+</picture>
+
