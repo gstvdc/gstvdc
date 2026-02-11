@@ -27,25 +27,10 @@ I’m always open to new challenges, collaborations and opportunities that help 
 
 ---
 
-### 🌎 Connect with me
-
-<div align="center">
-  <a href="https://github.com/gstvdc">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/gstvdc">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://instagram.com/gstvdcc">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
-
----
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gstvdcc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=gstvdc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=gstvdc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
 </div>
