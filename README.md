@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">👋 What's Up?</h1>
 
 ###
 
@@ -27,8 +27,6 @@ I’m always open to new challenges, collaborations and opportunities that help 
 
 ---
 
-### 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg" />
 </div>
