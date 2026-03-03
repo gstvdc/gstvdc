@@ -15,6 +15,9 @@ I worked for 4 years as a Graphic Designer and today I work as a FullStack Devel
 My goal is to grow professionally in software development, build solid projects and gain real-world experience.<br><br>
 
 I’m always open to new challenges, collaborations and opportunities that help me evolve 🚀
+
+Primarily involved in private projects within the corporate GitLab.
+Experience with Angular and NestJS.
 </p>
 
 ---
