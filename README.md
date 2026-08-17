@@ -23,7 +23,7 @@
 <h3 align="center">🚀 Languages & Technologies</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,postgres,mysql,java,python,c,git" height="60" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,angular,nodejs,express,postgres,mysql,java,python,c,git" height="60" />
 </div>
 
 ---
