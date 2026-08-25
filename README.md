@@ -11,18 +11,18 @@
   Computer Science student at UNESC.<br><br>
 
   I worked for 4 years as a Graphic Designer and today I work as a FullStack Developer.<br>
-  Currently working with Angular and NestJS in the development of corporate web applications.<br><br>
+  Currently working with SvelteKit and Laravel in the development of corporate web applications and automations.<br><br>
 
   Experience with frontend and backend development, REST APIs, authentication, business rules,
   database integration and application architecture.<br>
-  I also work with React, Next.js, Node.js, TypeScript and PostgreSQL.<br><br>
+  I also work with React, Next.js, Angular.js, Node.js and TypeScript.<br><br>
 
-  Currently expanding my knowledge in Laravel, Generative AI, LangChain and LangGraph.<br><br>
+  Currently expanding my knowledge in Laravel, Generative AI, LangChain/LangGraph.<br><br>
 
   My goal is to grow professionally in software development, build solid projects
   and gain real-world experience.<br><br>
 
-  I'm always open to new challenges, collaborations and opportunities that help me evolve 🚀<br>
+  I'm always open to new challenges, collaborations and opportunities that help me evolve <br>
   Primarily involved in private projects within the corporate GitLab.
 </p>
 
