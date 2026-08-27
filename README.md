@@ -1,36 +1,53 @@
-<h1 align="center">What's Up?</h1>
+<div align="center">
+  <img
+    height="150"
+    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+    alt="Coding animation"
+  />
+</div>
 
-<h3 align="center">Gustavo Constante</h3>
+<h2 align="center">Gustavo Constante</h2>
 
 <p align="center">
-  <strong>FullStack Developer</strong>
+  <strong>Full Stack Developer</strong>
 </p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/gstvdc/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+      height="28"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://gstvdc.carrd.co/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=24292F&logoColor=white&style=for-the-badge"
+      height="28"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/gstvdcc/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
+      height="28"
+      alt="Instagram"
+    />
+  </a>
+</div>
+
+<br>
+
 <p align="center">
-  My name is Gustavo Constante, I'm 22 years old and I'm from Santa Catarina, Brazil 🇧🇷.<br>
-  Computer Science student at UNESC.<br><br>
+  Computer Science student at UNESC from Santa Catarina, Brazil 🇧🇷.<br><br>
 
-  I worked for 4 years as a Graphic Designer and today I work as a Full Stack Developer.<br>
-  Currently working with <strong>SvelteKit and Laravel</strong> in the development of
-  corporate web applications, internal systems and automations.<br><br>
+  Full Stack Developer currently working with <strong>SvelteKit and Laravel</strong>
+  on corporate web applications, internal systems and automations.<br><br>
 
-  I have experience with frontend and backend development, REST APIs, authentication,
-  business rules, database integration, application architecture and corporate systems.<br>
-  I also have experience with React, Next.js, Angular, NestJS, Node.js and TypeScript.<br><br>
-
-  My development environment also includes PostgreSQL, Prisma, Redis, Docker,
-  Git-based workflows, code review and agile development practices.<br><br>
-
-  Currently expanding my knowledge in Laravel, Generative AI,
-  LangChain, LangGraph and AI Agents.<br><br>
-
-  I also enjoy exploring hardware and embedded development with Arduino and ESP32.<br><br>
-
-  My goal is to continuously evolve as a software developer,
-  build solid and scalable applications and gain experience with increasingly complex systems.<br><br>
-
-  I'm always open to new challenges, collaborations and opportunities that help me evolve.<br>
-  Primarily involved in private projects within corporate GitLab environments.
+  Experience with frontend and backend development, REST APIs, authentication,
+  business rules, databases and application architecture.
 </p>
 
 ---
@@ -38,7 +55,10 @@
 <h3 align="center">Languages & Technologies</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,js,ts,svelte,react,nextjs,angular,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,java,python,cpp,git,github,gitlab,docker,figma,arduino" height="60" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,js,ts,svelte,react,nextjs,angular,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,java,python,cpp,git,github,gitlab,docker,figma,arduino"
+    height="60"
+  />
 </div>
 
 ---
@@ -74,7 +94,7 @@
 <h3 align="center">Currently Learning & Exploring</h3>
 
 <p align="center">
-  Laravel • LangChain • LangGraph • Generative AI • AI Agents
+  Generative AI • LangChain • LangGraph • AI Agents
 </p>
 
 <p align="center">
@@ -87,9 +107,17 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg" alt="Snake animation" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/gstvdc/gstvdc/output/snake.svg"
+      alt="Snake animation"
+    />
   </picture>
 </p>
-```
