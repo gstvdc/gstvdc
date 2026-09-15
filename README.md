@@ -56,7 +56,7 @@
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,js,ts,svelte,react,nextjs,angular,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,java,python,cpp,git,github,gitlab,docker,figma,arduino"
+    src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,js,ts,svelte,react,nextjs,angular,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,java,python,cpp,git,github,gitlab,docker,figma,arduino,rust"
     height="60"
   />
 </div>
