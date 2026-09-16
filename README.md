@@ -43,11 +43,13 @@
 <p align="center">
   Computer Science student at UNESC from Santa Catarina, Brazil 🇧🇷.<br><br>
 
-  Full Stack Developer currently working with <strong>SvelteKit and Laravel</strong>
-  on corporate web applications, internal systems and automations.<br><br>
+Full Stack Developer currently working with <strong>SvelteKit and Laravel</strong>
+on corporate web applications, internal systems and automations.<br><br>
 
-  Experience with frontend and backend development, REST APIs, authentication,
-  business rules, databases and application architecture.
+Experience with frontend and backend development, REST APIs, authentication,
+business rules, databases and application architecture, while currently expanding
+my knowledge in <strong>AI Engineering, LLM applications and intelligent systems</strong>.
+
 </p>
 
 ---
@@ -91,10 +93,18 @@
 
 ---
 
-<h3 align="center">Currently Learning & Exploring</h3>
+<h3 align="center">AI Engineering & Currently Exploring</h3>
 
 <p align="center">
-  Generative AI • LangChain • LangGraph • AI Agents
+  Generative AI • LLM Applications • AI Agents • RAG
+</p>
+
+<p align="center">
+  Human-in-the-Loop • Agentic Workflows • LLM Tool Use • Context Engineering
+</p>
+
+<p align="center">
+  LangChain • LangGraph • AI Harnesses • Prompt Engineering
 </p>
 
 <p align="center">
