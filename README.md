@@ -1,14 +1,5 @@
-<h1 align="center">Gustavo Constante</h1>
-
 <p align="center">
-  <strong>Full Stack Developer</strong>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=2563EB&center=true&vCenter=true&width=540&lines=%24+building+web+apps+with+SvelteKit+%2B+Laravel;%24+designing+REST+APIs%2C+auth+%26+business+rules;%24+exploring+LLMs%2C+RAG+%26+AI+agents"
-    alt="Typing SVG"
-  />
+  <img src="./assets/header.svg" width="100%" alt="GSTVDC — Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -26,8 +17,10 @@ Full Stack Developer currently working with <strong>SvelteKit and Laravel</stron
 on corporate web applications, internal systems and automations.<br><br>
 
 Experience with frontend and backend development, REST APIs, authentication,
-business rules, databases and application architecture, while currently expanding
-my knowledge in <strong>AI Engineering, LLM applications and intelligent systems</strong>.
+business rules, databases and application architecture.<br><br>
+
+Currently focused on studying <strong>AI Engineering</strong>, LLM applications and intelligent systems,
+alongside <strong>Cybersecurity</strong>.
 
 </p>
 
@@ -72,7 +65,7 @@ my knowledge in <strong>AI Engineering, LLM applications and intelligent systems
 
 ---
 
-<h3 align="center">AI Engineering & Currently Exploring</h3>
+<h3 align="center">AI, Cybersecurity & Currently Exploring</h3>
 
 <p align="center">
   Generative AI • LLM Applications • AI Agents • RAG
@@ -84,6 +77,10 @@ my knowledge in <strong>AI Engineering, LLM applications and intelligent systems
 
 <p align="center">
   LangChain • LangGraph • AI Harnesses • Prompt Engineering
+</p>
+
+<p align="center">
+  Cybersecurity • Web Application Security • OWASP Top 10 • Secure Development
 </p>
 
 <p align="center">
