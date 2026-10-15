@@ -1,14 +1,12 @@
+<h1 align="center">Gustavo Constante</h1>
+
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Gustavo%20Constante&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=56&descSize=16"
-    alt="Gustavo Constante"
-  />
+  <strong>Full Stack Developer</strong>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=2563EB&center=true&vCenter=true&width=480&lines=SvelteKit+%2B+Laravel+no+dia+a+dia;APIs+REST%2C+autentica%C3%A7%C3%A3o+e+regras+de+neg%C3%B3cio;Explorando+LLMs%2C+RAG+e+AI+Agents"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=2563EB&center=true&vCenter=true&width=540&lines=%24+building+web+apps+with+SvelteKit+%2B+Laravel;%24+designing+REST+APIs%2C+auth+%26+business+rules;%24+exploring+LLMs%2C+RAG+%26+AI+agents"
     alt="Typing SVG"
   />
 </p>
