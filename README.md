@@ -1,15 +1,16 @@
-<div align="center">
+<p align="center">
   <img
-    height="150"
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-    alt="Coding animation"
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Gustavo%20Constante&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=56&descSize=16"
+    alt="Gustavo Constante"
   />
-</div>
-
-<h2 align="center">Gustavo Constante</h2>
+</p>
 
 <p align="center">
-  <strong>Full Stack Developer</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=2563EB&center=true&vCenter=true&width=480&lines=SvelteKit+%2B+Laravel+no+dia+a+dia;APIs+REST%2C+autentica%C3%A7%C3%A3o+e+regras+de+neg%C3%B3cio;Explorando+LLMs%2C+RAG+e+AI+Agents"
+    alt="Typing SVG"
+  />
 </p>
 
 <div align="center">
@@ -41,7 +42,7 @@
 <br>
 
 <p align="center">
-  Computer Science student at UNESC from Santa Catarina, Brazil 🇧🇷.<br><br>
+  Computer Science student at UNESC from Santa Catarina, Brazil.<br><br>
 
 Full Stack Developer currently working with <strong>SvelteKit and Laravel</strong>
 on corporate web applications, internal systems and automations.<br><br>
