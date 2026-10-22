@@ -30,7 +30,7 @@ alongside <strong>Cybersecurity</strong>.
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,js,ts,svelte,react,nextjs,angular,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,java,python,cpp,git,github,gitlab,docker,figma,arduino,rust"
+    src="https://skillicons.dev/icons?i=html,css,tailwind,php,laravel,js,ts,svelte,react,nextjs,angular,nodejs,express,nestjs,prisma,postgres,mysql,mongodb,redis,nginx,java,python,cpp,git,github,gitlab,docker,figma,arduino,rust"
     height="60"
   />
 </div>
@@ -40,7 +40,7 @@ alongside <strong>Cybersecurity</strong>.
 <h3 align="center">Currently Working With</h3>
 
 <p align="center">
-  SvelteKit • Laravel • PHP • TypeScript • PostgreSQL • Prisma • Redis
+  SvelteKit • Laravel • PHP • TypeScript • MySQL • Nginx
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ alongside <strong>Cybersecurity</strong>.
 </p>
 
 <p align="center">
-  REST APIs • JWT • PostgreSQL • MySQL • MongoDB • Docker
+  REST APIs • JWT • PostgreSQL • Prisma • Redis • MongoDB • Docker
 </p>
 
 ---
